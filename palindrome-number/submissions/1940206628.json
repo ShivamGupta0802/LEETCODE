@@ -1,0 +1,15 @@
+{
+  "submissionId": "1940206628",
+  "title": "Palindrome Number",
+  "titleSlug": "palindrome-number",
+  "timestamp": 1772825742,
+  "dateUTC": "2026-03-06 19:35 UTC",
+  "language": "java",
+  "runtime": "5 ms",
+  "runtimePercentile": "N/A",
+  "memory": "45.6 MB",
+  "memoryPercentile": "N/A",
+  "timeComplexity": "Review required",
+  "spaceComplexity": "Review required",
+  "sourceCodeRetrieved": false
+}
