@@ -1,0 +1,12 @@
+{
+  "submissionId": "1940206628",
+  "title": "Palindrome Number",
+  "titleSlug": "palindrome-number",
+  "questionId": "9",
+  "language": "java",
+  "timestamp": 1772825742,
+  "dateUTC": "2026-03-06 19:35:42 UTC",
+  "runtime": 5,
+  "memory": 45632000,
+  "sourceCodeFile": "submission-1940206628.java"
+}
