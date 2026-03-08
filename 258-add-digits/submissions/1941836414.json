@@ -1,0 +1,12 @@
+{
+  "submissionId": "1941836414",
+  "title": "Add Digits",
+  "titleSlug": "add-digits",
+  "questionId": "258",
+  "language": "java",
+  "timestamp": 1772964851,
+  "dateUTC": "2026-03-08 10:14:11 UTC",
+  "runtime": 1,
+  "memory": 42508000,
+  "sourceCodeFile": "submission-1941836414.java"
+}
