@@ -1,0 +1,12 @@
+{
+  "submissionId": "1942577598",
+  "title": "A Number After a Double Reversal",
+  "titleSlug": "a-number-after-a-double-reversal",
+  "questionId": "2238",
+  "language": "java",
+  "timestamp": 1773038630,
+  "dateUTC": "2026-03-09 06:43:50 UTC",
+  "runtime": "0 ms",
+  "memory": 42156000,
+  "sourceCodeFile": "submission-1942577598.java"
+}
