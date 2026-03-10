@@ -1,0 +1,15 @@
+{
+  "submissionId": "1944013570",
+  "title": "Reverse Integer",
+  "titleSlug": "reverse-integer",
+  "timestamp": 1773153164,
+  "dateUTC": "2026-03-10 14:32 UTC",
+  "language": "java",
+  "runtime": "1 ms",
+  "runtimePercentile": "N/A",
+  "memory": "42.7 MB",
+  "memoryPercentile": "N/A",
+  "timeComplexity": "Review required",
+  "spaceComplexity": "Review required",
+  "sourceCodeRetrieved": false
+}
