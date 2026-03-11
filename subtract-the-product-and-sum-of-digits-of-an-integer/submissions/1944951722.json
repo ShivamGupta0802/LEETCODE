@@ -1,0 +1,15 @@
+{
+  "submissionId": "1944951722",
+  "title": "Subtract the Product and Sum of Digits of an Integer",
+  "titleSlug": "subtract-the-product-and-sum-of-digits-of-an-integer",
+  "timestamp": 1773229964,
+  "dateUTC": "2026-03-11 11:52 UTC",
+  "language": "java",
+  "runtime": "0 ms",
+  "runtimePercentile": "N/A",
+  "memory": "42.3 MB",
+  "memoryPercentile": "N/A",
+  "timeComplexity": "Review required",
+  "spaceComplexity": "Review required",
+  "sourceCodeRetrieved": false
+}
