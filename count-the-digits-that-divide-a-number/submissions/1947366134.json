@@ -1,0 +1,15 @@
+{
+  "submissionId": "1947366134",
+  "title": "Count the Digits That Divide a Number",
+  "titleSlug": "count-the-digits-that-divide-a-number",
+  "timestamp": 1773431586,
+  "dateUTC": "2026-03-13 19:53 UTC",
+  "language": "java",
+  "runtime": "0 ms",
+  "runtimePercentile": "N/A",
+  "memory": "42.3 MB",
+  "memoryPercentile": "N/A",
+  "timeComplexity": "Review required",
+  "spaceComplexity": "Review required",
+  "sourceCodeRetrieved": false
+}
