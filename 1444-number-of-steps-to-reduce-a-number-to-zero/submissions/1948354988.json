@@ -1,0 +1,12 @@
+{
+  "submissionId": "1948354988",
+  "title": "Number of Steps to Reduce a Number to Zero",
+  "titleSlug": "number-of-steps-to-reduce-a-number-to-zero",
+  "questionId": "1444",
+  "language": "java",
+  "timestamp": 1773516535,
+  "dateUTC": "2026-03-14 19:28:55 UTC",
+  "runtime": "0 ms",
+  "memory": 42400000,
+  "sourceCodeFile": "submission-1948354988.java"
+}
