@@ -1,0 +1,12 @@
+{
+  "submissionId": "2020486049",
+  "title": "Perfect Number",
+  "titleSlug": "perfect-number",
+  "questionId": "507",
+  "language": "java",
+  "timestamp": 1780423039,
+  "dateUTC": "2026-06-02 17:57:19 UTC",
+  "runtime": 2095,
+  "memory": 42228000,
+  "sourceCodeFile": "submission-2020486049.java"
+}
