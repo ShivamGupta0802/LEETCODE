@@ -1,0 +1,15 @@
+{
+  "submissionId": "2024419600",
+  "title": "Number of Digit One",
+  "titleSlug": "number-of-digit-one",
+  "timestamp": 1780758722,
+  "dateUTC": "2026-06-06 15:12 UTC",
+  "language": "java",
+  "runtime": "0 ms",
+  "runtimePercentile": "N/A",
+  "memory": "42.2 MB",
+  "memoryPercentile": "N/A",
+  "timeComplexity": "Review required",
+  "spaceComplexity": "Review required",
+  "sourceCodeRetrieved": false
+}
