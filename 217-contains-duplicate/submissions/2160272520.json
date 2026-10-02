@@ -1,0 +1,12 @@
+{
+  "submissionId": "2160272520",
+  "title": "Contains Duplicate",
+  "titleSlug": "contains-duplicate",
+  "questionId": "217",
+  "language": "java",
+  "timestamp": 1790954186,
+  "dateUTC": "2026-10-02 15:16:26 UTC",
+  "runtime": 18,
+  "memory": 108016000,
+  "sourceCodeFile": "submission-2160272520.java"
+}
