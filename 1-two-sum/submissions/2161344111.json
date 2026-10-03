@@ -1,0 +1,12 @@
+{
+  "submissionId": "2161344111",
+  "title": "Two Sum",
+  "titleSlug": "two-sum",
+  "questionId": "1",
+  "language": "java",
+  "timestamp": 1791049766,
+  "dateUTC": "2026-10-03 17:49:26 UTC",
+  "runtime": 45,
+  "memory": 47004000,
+  "sourceCodeFile": "submission-2161344111.java"
+}
