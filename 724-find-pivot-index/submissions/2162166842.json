@@ -1,0 +1,12 @@
+{
+  "submissionId": "2162166842",
+  "title": "Find Pivot Index",
+  "titleSlug": "find-pivot-index",
+  "questionId": "724",
+  "language": "java",
+  "timestamp": 1791122521,
+  "dateUTC": "2026-10-04 14:02:01 UTC",
+  "runtime": 278,
+  "memory": 47172000,
+  "sourceCodeFile": "submission-2162166842.java"
+}
