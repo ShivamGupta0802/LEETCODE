@@ -1,0 +1,15 @@
+{
+  "submissionId": "2162167211",
+  "title": "Find Pivot Index",
+  "titleSlug": "find-pivot-index",
+  "timestamp": 1791122544,
+  "dateUTC": "2026-10-04 14:02 UTC",
+  "language": "java",
+  "runtime": "271 ms",
+  "runtimePercentile": "N/A",
+  "memory": "47.3 MB",
+  "memoryPercentile": "N/A",
+  "timeComplexity": "Review required",
+  "spaceComplexity": "Review required",
+  "sourceCodeRetrieved": false
+}
