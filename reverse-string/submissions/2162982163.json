@@ -1,0 +1,15 @@
+{
+  "submissionId": "2162982163",
+  "title": "Reverse String",
+  "titleSlug": "reverse-string",
+  "timestamp": 1791193740,
+  "dateUTC": "2026-10-05 09:49 UTC",
+  "language": "java",
+  "runtime": "0 ms",
+  "runtimePercentile": "N/A",
+  "memory": "48.2 MB",
+  "memoryPercentile": "N/A",
+  "timeComplexity": "Review required",
+  "spaceComplexity": "Review required",
+  "sourceCodeRetrieved": false
+}
