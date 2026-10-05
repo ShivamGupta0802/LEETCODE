@@ -1,0 +1,12 @@
+{
+  "submissionId": "2162982163",
+  "title": "Reverse String",
+  "titleSlug": "reverse-string",
+  "questionId": "344",
+  "language": "java",
+  "timestamp": 1791193740,
+  "dateUTC": "2026-10-05 09:49:00 UTC",
+  "runtime": "0 ms",
+  "memory": 48236000,
+  "sourceCodeFile": "submission-2162982163.java"
+}
