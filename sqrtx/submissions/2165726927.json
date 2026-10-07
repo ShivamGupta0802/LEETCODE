@@ -1,0 +1,15 @@
+{
+  "submissionId": "2165726927",
+  "title": "Sqrt(x)",
+  "titleSlug": "sqrtx",
+  "timestamp": 1791404125,
+  "dateUTC": "2026-10-07 20:15 UTC",
+  "language": "java",
+  "runtime": "1 ms",
+  "runtimePercentile": "N/A",
+  "memory": "42.8 MB",
+  "memoryPercentile": "N/A",
+  "timeComplexity": "Review required",
+  "spaceComplexity": "Review required",
+  "sourceCodeRetrieved": false
+}
