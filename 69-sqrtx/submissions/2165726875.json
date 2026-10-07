@@ -1,0 +1,12 @@
+{
+  "submissionId": "2165726875",
+  "title": "Sqrt(x)",
+  "titleSlug": "sqrtx",
+  "questionId": "69",
+  "language": "java",
+  "timestamp": 1791404118,
+  "dateUTC": "2026-10-07 20:15:18 UTC",
+  "runtime": 1,
+  "memory": 42516000,
+  "sourceCodeFile": "submission-2165726875.java"
+}
