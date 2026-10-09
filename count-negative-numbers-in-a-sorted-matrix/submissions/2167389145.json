@@ -1,0 +1,15 @@
+{
+  "submissionId": "2167389145",
+  "title": "Count Negative Numbers in a Sorted Matrix",
+  "titleSlug": "count-negative-numbers-in-a-sorted-matrix",
+  "timestamp": 1791557924,
+  "dateUTC": "2026-10-09 14:58 UTC",
+  "language": "java",
+  "runtime": "2 ms",
+  "runtimePercentile": "N/A",
+  "memory": "47.2 MB",
+  "memoryPercentile": "N/A",
+  "timeComplexity": "Review required",
+  "spaceComplexity": "Review required",
+  "sourceCodeRetrieved": false
+}
