@@ -1,0 +1,12 @@
+{
+  "submissionId": "2168627882",
+  "title": "First Bad Version",
+  "titleSlug": "first-bad-version",
+  "questionId": "278",
+  "language": "java",
+  "timestamp": 1791664216,
+  "dateUTC": "2026-10-10 20:30:16 UTC",
+  "runtime": 13,
+  "memory": 41864000,
+  "sourceCodeFile": "submission-2168627882.java"
+}
