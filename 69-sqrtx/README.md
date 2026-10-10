@@ -1,3 +1,5 @@
+[Time: 1 ms (100.00%) | Memory: 42.5 MB (78.19%)](https://leetcode.com/submissions/detail/2166129591/)
+
 # Sqrt(x)
 
 - **Problem:** [LeetCode 69](

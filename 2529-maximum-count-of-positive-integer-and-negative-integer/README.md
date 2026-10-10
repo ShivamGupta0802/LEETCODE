@@ -1,3 +1,5 @@
+[Time: 1 ms (23.83%) | Memory: 46.7 MB (94.50%)](https://leetcode.com/submissions/detail/2166129989/)
+
 # Maximum Count of Positive Integer and Negative Integer
 
 - **Problem:** [LeetCode 2529](

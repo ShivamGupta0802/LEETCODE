@@ -1,3 +1,5 @@
+[Time: 2095 ms (41.32%) | Memory: 42.2 MB (25.58%)](https://leetcode.com/submissions/detail/2020486049/)
+
 # Perfect Number
 
 - **Problem:** [LeetCode 507](

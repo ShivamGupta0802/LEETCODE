@@ -1,3 +1,5 @@
+[Time: 1 ms (95.93%) | Memory: 47.5 MB (22.97%)](https://leetcode.com/submissions/detail/2162208160/)
+
 # Find Pivot Index
 
 - **Problem:** [LeetCode 724](

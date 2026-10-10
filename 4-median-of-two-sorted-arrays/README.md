@@ -1,3 +1,5 @@
+[Time: 7 ms (23.35%) | Memory: 49.2 MB (15.35%)](https://leetcode.com/submissions/detail/2158526283/)
+
 # Median of Two Sorted Arrays
 
 - **Problem:** [LeetCode 4](

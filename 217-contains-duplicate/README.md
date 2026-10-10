@@ -1,3 +1,5 @@
+[Time: 18 ms (76.49%) | Memory: 108 MB (57.74%)](https://leetcode.com/submissions/detail/2160272520/)
+
 # Contains Duplicate
 
 - **Problem:** [LeetCode 217](

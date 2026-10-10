@@ -1,3 +1,5 @@
+[Time: 0 ms (100.00%) | Memory: 44.6 MB (82.78%)](https://leetcode.com/submissions/detail/2164985039/)
+
 # Search Insert Position
 
 - **Problem:** [LeetCode 35](

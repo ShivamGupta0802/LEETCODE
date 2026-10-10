@@ -1,3 +1,5 @@
+[Time: 13 ms (99.74%) | Memory: 41.7 MB (96.35%)](https://leetcode.com/submissions/detail/2168630305/)
+
 <h2><a href="https://leetcode.com/problems/first-bad-version">First Bad Version</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are a product manager and currently leading a team to develop a new product. Unfortunately, the latest version of your product fails the quality check. Since each version is developed based on the previous version, all the versions after a bad version are also bad.</p>
 
 <p>Suppose you have <code>n</code> versions <code>[1, 2, ..., n]</code> and you want to find out the first bad one, which causes all the following ones to be bad.</p>

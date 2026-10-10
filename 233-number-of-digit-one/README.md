@@ -1,3 +1,5 @@
+[Time: 0 ms (100.00%) | Memory: 42.2 MB (34.28%)](https://leetcode.com/submissions/detail/2024419600/)
+
 # Number of Digit One
 
 - **Problem:** [LeetCode 233](

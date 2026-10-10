@@ -1,3 +1,5 @@
+[Time: 1 ms (58.99%) | Memory: 47 MB (24.58%)](https://leetcode.com/submissions/detail/2167389754/)
+
 # Count Negative Numbers in a Sorted Matrix
 
 - **Problem:** [LeetCode 1351](

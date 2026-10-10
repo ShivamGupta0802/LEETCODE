@@ -1,3 +1,5 @@
+[Time: 0 ms (100.00%) | Memory: 48.2 MB (55.41%)](https://leetcode.com/submissions/detail/2162982163/)
+
 # Reverse String
 
 - **Problem:** [LeetCode 344](

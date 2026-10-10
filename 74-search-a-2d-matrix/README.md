@@ -1,3 +1,5 @@
+[Time: 0 ms (100.00%) | Memory: 43.5 MB (94.87%)](https://leetcode.com/submissions/detail/2164131526/)
+
 # Search a 2D Matrix
 
 - **Problem:** [LeetCode 74](

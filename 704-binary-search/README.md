@@ -1,3 +1,5 @@
+[Time: 0 ms (100.00%) | Memory: 48 MB (93.97%)](https://leetcode.com/submissions/detail/2165991965/)
+
 # Binary Search
 
 - **Problem:** [LeetCode 704](

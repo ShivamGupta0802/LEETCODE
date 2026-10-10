@@ -1,3 +1,5 @@
+[Time: 45 ms (26.77%) | Memory: 47 MB (59.06%)](https://leetcode.com/submissions/detail/2161374114/)
+
 # Two Sum
 
 - **Problem:** [LeetCode 1](

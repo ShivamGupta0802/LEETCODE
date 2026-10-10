@@ -1,3 +1,5 @@
+[Time: 0 ms (100.00%) | Memory: 46.6 MB (80.30%)](https://leetcode.com/submissions/detail/2167901038/)
+
 # Remove Duplicates from Sorted Array
 
 - **Problem:** [LeetCode 26](

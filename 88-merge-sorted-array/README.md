@@ -1,3 +1,5 @@
+[Time: 3 ms (20.66%) | Memory: 43.9 MB (46.32%)](https://leetcode.com/submissions/detail/2159464674/)
+
 # Merge Sorted Array
 
 - **Problem:** [LeetCode 88](

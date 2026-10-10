@@ -1,3 +1,5 @@
+[Time: 1 ms (99.92%) | Memory: 94.4 MB (70.42%)](https://leetcode.com/submissions/detail/2159533021/)
+
 # Best Time to Buy and Sell Stock
 
 - **Problem:** [LeetCode 121](
