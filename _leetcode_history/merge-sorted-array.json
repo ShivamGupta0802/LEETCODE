@@ -1,0 +1,12 @@
+{
+  "title": "Merge Sorted Array",
+  "titleSlug": "merge-sorted-array",
+  "submissionId": "2159464674",
+  "timestamp": 1790876028,
+  "date": "2026-10-01T23:03:48+05:30",
+  "language": "java",
+  "runtime": "3 ms",
+  "memory": "43.9 MB",
+  "runtimePercentile": null,
+  "memoryPercentile": null
+}

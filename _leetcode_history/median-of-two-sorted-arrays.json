@@ -1,0 +1,12 @@
+{
+  "title": "Median of Two Sorted Arrays",
+  "titleSlug": "median-of-two-sorted-arrays",
+  "submissionId": "2158526283",
+  "timestamp": 1790794484,
+  "date": "2026-10-01T00:24:44+05:30",
+  "language": "java",
+  "runtime": "7 ms",
+  "memory": "49.2 MB",
+  "runtimePercentile": null,
+  "memoryPercentile": null
+}

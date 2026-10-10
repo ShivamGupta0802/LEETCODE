@@ -1,0 +1,12 @@
+{
+  "title": "Sqrt(x)",
+  "titleSlug": "sqrtx",
+  "submissionId": "2166129591",
+  "timestamp": 1791448447,
+  "date": "2026-10-08T14:04:07+05:30",
+  "language": "java",
+  "runtime": "1 ms",
+  "memory": "42.5 MB",
+  "runtimePercentile": null,
+  "memoryPercentile": null
+}
