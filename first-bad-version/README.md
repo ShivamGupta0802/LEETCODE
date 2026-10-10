@@ -1,0 +1,21 @@
+# First Bad Version
+
+- **Problem:** https://leetcode.com/problems/first-bad-version/
+- **Problem ID:** N/A
+- **Difficulty:** N/A
+- **Language:** java
+- **Submission date:** 2026-10-10 16:38 UTC
+
+## Performance
+
+- **Runtime:** 13 ms
+- **Runtime percentile:** N/A
+- **Memory:** 42.4 MB
+- **Memory percentile:** N/A
+
+## Complexity
+
+- **Time complexity (TC):** Review required
+- **Space complexity (SC):** Review required
+
+> Verify complexity against the solution before treating it as definitive.
