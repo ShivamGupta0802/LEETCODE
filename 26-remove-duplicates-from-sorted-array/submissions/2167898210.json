@@ -1,0 +1,12 @@
+{
+  "submissionId": "2167898210",
+  "title": "Remove Duplicates from Sorted Array",
+  "titleSlug": "remove-duplicates-from-sorted-array",
+  "questionId": "26",
+  "language": "java",
+  "timestamp": 1791614247,
+  "dateUTC": "2026-10-10 06:37:27 UTC",
+  "runtime": 1,
+  "memory": 46548000,
+  "sourceCodeFile": "submission-2167898210.java"
+}
