@@ -1,7 +1,9 @@
 class Solution {
     public boolean threeConsecutiveOdds(int[] arr) {
-        for(int i = 0 ,j = i + 1,k = i+2;i<arr.length && j<arr.length && k<arr.length;i++,j++,k++){
-            if(arr[i]%2 != 0 && arr[j] % 2 != 0 && arr[k]  % 2 != 0){
+        for(int i = 0;i<arr.length-2;i++){
+            if(arr[i]%2 != 0 &&
+            arr[i+1] % 2 != 0 
+            && arr[i+2]  % 2 != 0){
                 return true;
             }
         }
